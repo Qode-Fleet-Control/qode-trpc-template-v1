@@ -1,3 +1,4 @@
+// @ts-nocheck — a plain-Node runtime preload (node -r), never imported by the app; the Next build type-checks JS (checkJs).
 'use strict';
 // Request log preload: `node -r ./request-log.cjs <server>`. No dependencies.
 //
